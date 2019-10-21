@@ -26,7 +26,11 @@ Wireless implies that:
 * Based on nrf52840 or similar cortex-m4 chip
 * Will have an internal battery
 
-Additionally it wil have a trackpoint/joystick to manipulate the cursor without mouse.
+
+## Mouse
+
+Additionally it will have a trackpoint/joystick to manipulate the cursor without mouse and touch wheel.
+
 
 ## Layout
 
