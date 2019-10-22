@@ -1,5 +1,5 @@
 # kboard
-Compact, novice-friendly, semi-ergonomic wireless keyboard
+Compact novice-friendly semi-ergonomic wireless keyboard
 
 ## Properties
 
@@ -26,19 +26,19 @@ Wireless implies that:
 * Based on nrf52840 or similar cortex-m4 chip
 * Will have an internal battery
 
-
 ## Mouse
 
 Additionally it will have a trackpoint/joystick to manipulate the cursor without mouse and touch wheel.
-
 
 ## Layout
 
 ### Mechanical 
 
-Initial idea of mechanical layout taken here https://t.me/klavaorgwork
+Initial idea of mechanical layout
 
 ![photo_2019-10-21_12-45-05](https://user-images.githubusercontent.com/1218615/67194905-a19b5600-f400-11e9-8cd4-13910685a099.jpg)
+
+The picture taken here: https://t.me/klavaorgwork
 
 Updated version will be uploaded later.
 
