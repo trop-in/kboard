@@ -64,3 +64,5 @@ Updated version will be uploaded later.
 ## Links
 
 * https://ux.stackexchange.com/questions/40390/why-are-keyboard-keys-staggered
+* https://github.com/joric/nrfmicro
+* https://github.com/optozorax/keyboard_layout
