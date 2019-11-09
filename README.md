@@ -48,12 +48,17 @@ Keyboard should also enhance your gaming experience:
 * Will support macros
 * Macros recording on the go
 
+## Bluetooth
+* Ability to switch between multiple devcies instantly
+* Switch between bluetooth/cable
 
 ## Layout
 
 ### Mechanical
 
 Initial idea of mechanical layout
+
+![image](https://user-images.githubusercontent.com/1218615/68527622-f5130c80-02f9-11ea-97e8-7ac1b3125a8c.png)
 
 ![photo_2019-10-21_12-45-05](https://user-images.githubusercontent.com/1218615/67194905-a19b5600-f400-11e9-8cd4-13910685a099.jpg)
 
