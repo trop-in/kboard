@@ -71,3 +71,4 @@ Updated version will be uploaded later.
 * https://ux.stackexchange.com/questions/40390/why-are-keyboard-keys-staggered
 * https://github.com/joric/nrfmicro
 * https://github.com/optozorax/keyboard_layout
+* https://github.com/alonswartz/trackpoint
